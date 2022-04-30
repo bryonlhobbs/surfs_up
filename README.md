@@ -4,7 +4,7 @@
 In this challenge, I was asked to pull only June & December temperature data to determine if the surf and ice cream shop was sustainable year round.  Once I had the data, I needed to convert it to a list, then a DataFrame and get summary statistics to show viability.
 
 ## Results
-  - The first difference in between June is the lowest temperature.  In December, the lowest temperature was 56 degrees, whereas in June the lowest temperature was 64.  
+  - The first difference between the two months is the lowest temperature.  In December, the lowest temperature was 56 degrees, whereas in June the lowest temperature was 64.  
 
   - Another difference is that the standard deviation for December is higher, suggesting more variance in the data.
 
